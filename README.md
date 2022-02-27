@@ -17,3 +17,11 @@ https://docs.google.com/presentation/d/14xpHRTkI8FhCgPIfVB5lXe8hBHeeeFmgcCLxrfkm
 
 There is also a word document you can download that includes all the TODOs for creating an art bible, and useful
 links.
+
+GitHub link: 
+
+https://github.com/aNnAm2606/PROJECT-II
+
+My GitHub:
+
+https://github.com/aNnAm2606
