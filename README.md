@@ -20,7 +20,7 @@ links.
 
 GitHub link: 
 
-https://github.com/aNnAm2606/PROJECT-II
+https://github.com/aNnAm2606/PROJECT-II-ART-BIBLE
 
 My GitHub:
 
