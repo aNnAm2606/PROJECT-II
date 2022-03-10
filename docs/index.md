@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Intro
 
-You can use the [editor on GitHub](https://github.com/aNnAm2606/PROJECT-II-ART-BIBLE/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is a wiki for my university presentation, for Project II about Art Bible for videogames. It is created for educational resaons only, all images and information is taken from the internet. The internet sourses are linked below in "Documentation/Links".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find a presentation template for making an art Bible, presentation on what the Art Bible is and the TODOs document in the Repository:
+- [Link to Repository.](https://github.com/aNnAm2606/PROJECT-II-ART-BIBLE)
+- [My GitHub.](https://github.com/aNnAm2606)
 
-### Markdown
+# Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here we will be talking about what is an Art Bible and how to make one:
 
-```markdown
-Syntax highlighted code block
+- What is an Art Bible? / Why is it important?
+- What does it consist of? / Examples
+- How to make one: TODOs
 
-# Header 1
-## Header 2
-### Header 3
+# Documentation/Links: 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aNnAm2606/PROJECT-II-ART-BIBLE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [What is an art bible?](https://dusthandler.github.io/Art_Bible/)
+* [Art bible for video game](https://www.hdm-stuttgart.de/stage/mediafiles/3324/sonstiges/WholeHoleArtBible.pdf)
+* [Example of environment art bible](https://www.artstation.com/artwork/nAYke)
+* [Colour in games](https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools)
